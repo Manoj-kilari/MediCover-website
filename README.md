@@ -1,3 +1,3 @@
 # Medicare
 
-![preview img](/Preview.png)
+![preview img](/preview.png)
